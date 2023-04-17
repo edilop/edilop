@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eddie</h1>
+<h1 align="center">Hi 👋, I'm Edi</h1>
 <h3 align="center">I'm a Data Analyst</h3>
 
 - 🌱 I’m currently learning **Data Science at Skills.tech**
