@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science at Skills.tech**
 
-- 💬 Ask me about **Python and Data Analysis**
+- 💬 Ask me about **Data Analytics and Bussines Intelligence**
 
 - 📫 How to reach me **elopez.data@gmail.com**
 
