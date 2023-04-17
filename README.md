@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data Analytics and Bussines Intelligence**
 
-- 📫 Reach me at:**elopez.data@gmail.com**
+- 📫 Reach me at: **elopez.data@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
