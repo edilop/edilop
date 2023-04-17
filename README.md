@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Edi</h1>
 <h3 align="center">I'm a Data Analyst</h3>
 
-- 🌱 I’m currently learning **Data Science at Skills.tech**
+- 🌱 I’m currently learning Data Science with Python
+
+- 🤝 I´m looking for help with my projects
 
 - 💬 Ask me about **Data Analytics and Bussines Intelligence**
 
-- 📫 How to reach me **elopez.data@gmail.com**
+- 📫 Reach me at:**elopez.data@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
