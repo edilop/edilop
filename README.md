@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">, I'm Edi</h1>
 <h3 align="center">I'm a Data Analyst</h3>
 
