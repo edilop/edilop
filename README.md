@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">, I'm Edi</h1>
-<h3 align="center">I'm a Data Analyst</h3>
+<h3 align="center">I'm a Computer Science student</h3>
 
-- 🌱 I’m currently learning Data Science with Python
+- 🌱 I’m currently learning Data Enginner
 
 - 🤝 I´m looking for help with my projects
 
-- 💬 Ask me about **Data Analytics and Bussines Intelligence**
+- 💬 Ask me about **Basic programming**
 
 - 📫 Reach me at: **elopez.data@gmail.com**
 
