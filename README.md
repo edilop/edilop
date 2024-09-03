@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">, I'm Edi</h1>
-<h3 align="center">I'm a Computer Science student</h3>
+<h3 align="center">I'm a Web Development student</h3>
 
-- 🌱 I’m currently learning Data Enginner
+- 🌱 I’m currently learning about Web apps
 
 - 🤝 I´m looking for help with my projects
 
-- 💬 Ask me about **Basic programming**
+- 💬 Ask me about **Web's and app's**
 
 - 📫 Reach me at: **elopez.data@gmail.com**
 
